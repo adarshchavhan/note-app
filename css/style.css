@@ -74,7 +74,6 @@ a, button, label{
    margin: auto;
    padding: 20px 0;
    grid-gap: 20px;
-   overflow-x: hidden;
 }
 .note-wrapper{
    display: grid;
